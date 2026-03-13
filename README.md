@@ -11,14 +11,6 @@
 
 ## ✨ Key Features
 
-### 📥 Bulk Prompt Injection: 
-Paste multiple prompts at once or upload a `.txt` file to queue video generations.
-### ⚙️Queue Management: 
-Manages and automates the submission of tasks in bulk to the AI queue.
-### ⏱️ Precision Throttling: 
-Adjustable delay settings to ensure smooth operation without hitting Google's rate limits.
-### 🔄 Iterative Looping:
- Quickly test variations of the same prompt to find the perfect cinematic shot.
 ### 🎬 Powerful Bulk Automation
 * **Create Video:** Select the "Create Video" option and input multiple prompts at once. The extension processes the entire list in one go, saving you hours of manual entry.
 * **Create Image:** Switch to the "Create Image" option to generate large batches of visuals from a single list of prompts.
@@ -26,20 +18,19 @@ Adjustable delay settings to ensure smooth operation without hitting Google's ra
 ### 🔄 Multi-Reference Mode: 
 * Streamline your workflow without repetitive uploading. Simply add your reference images to the extension and drag-and-drop them into your prompts.*
 * **Multi-Video Reference**
-* 1. Frame: Specify a "Start Image" and an "End Image." The AI will generate a video that transitions between the two based on your prompt.
-  2. Ingredients: Build a video by adding multiple reference images one by one to act as "ingredients" for the final output.
-  3. Pair: A structured mode where you add prompts line-by-line corresponding to specific images (e.g., Image 1 -> Prompt 1).
+ 1. Frame: Specify a "Start Image" and an "End Image." The AI will generate a video that transitions between the two based on your prompt.
+ 2. Ingredients: Build a video by adding multiple reference images one by one to act as "ingredients" for the final output.
+ 3. Pair: A structured mode where you add prompts line-by-line corresponding to specific images (e.g., Image 1 -> Prompt 1).
 * **Multi-Image Reference**
-* 1. Ingredients: Create a single image by layering or combining multiple reference images and a descriptive prompt.
-  2. Pair: Match specific images to specific prompt lines for precise control over the output.
-     
-* **Batch Quality Control:** Apply global settings (Aspect Ratio, Model Type) to your entire queue with a single click.
-* **Audio-Prompt Integration:** Automate the inclusion of sound descriptions within your video prompts for fully scored AI clips.
+ 1. Ingredients: Create a single image by layering or combining multiple reference images and a descriptive prompt.
+ 2. Pair: Match specific images to specific prompt lines for precise control over the output.
 
-### 💾 Smart File Management
-* **Auto-Download Engine:** Automatically detects completed renders and saves them to your computer—no more manual "Save As" clicking for every clip.
-* **Intelligent Naming:** Files are saved using your prompt text as the filename, making it easy to organize your library for post-production.
-* **Queue Resume:** If your session is interrupted, easily restart the automation from the exact spot you left off.
+### 🛠️ Advanced Tools
+* **Prompt Queue Manager:** Click the Edit icon to customize your settings, then hit Save. Use the Manager pop-up to oversee and run your automated tasks.
+* **AI Prompt Generator:**  Your built-in brainstorming partner. Use this to access an extensive list of ideas to overcome creative blocks and produce high-quality visuals.
+* **Advance Stealth Mode:**  Simulate natural human behavior for characters within your generations by enabling and customizing this specialized mode.
+* **Auto Cache Cleaner:** Maintain peak performance by automatically clearing the cache during heavy image or video generation sessions.
+* **Bulk Content Downloader:** The final stop for your creations. Use the selection tools to "Select All," "Deselect All," or filter by file type (Image vs. Video) for fast, organized downloading.
 
 ### ⏱️ Stability & Control
 * **Smart Throttling:** Custom "Wait Time" settings to ensure the browser doesn't crash and you stay within Google’s safety rate limits.
