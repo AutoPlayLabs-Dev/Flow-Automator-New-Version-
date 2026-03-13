@@ -1,7 +1,7 @@
 # 🌊 Flow Automator
-### Bulk AI Video Generation Toolkit for Google Labs Flow
+### Bulk AI Video Generation Toolkit for Google Flow Automator
 
-Flow Automator is a professional Chrome Extension designed to automate the prompt submission and video generation process on **Google Labs Flow**. It eliminates the manual effort of entering prompts one by one, enabling creators to generate cinematic AI videos at scale.
+**Flow Automator** is a powerful Chrome extension designed to supercharge your creative workflow. Whether you are generating high-quality AI images, crafting cinematic videos, or managing complex prompt queues, Flow Automator bridges the gap between your ideas and execution.
 
 [![Add to Extension](https://img.shields.io/badge/Add%20to%20Extension-%F0%9F%A7%A9-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
 
@@ -20,14 +20,19 @@ Adjustable delay settings to ensure smooth operation without hitting Google's ra
 ### 🔄 Iterative Looping:
  Quickly test variations of the same prompt to find the perfect cinematic shot.
 ### 🎬 Powerful Bulk Automation
-* **Frame-to-Video Workflow:** Select multiple images and pair them with motion prompts to automate the conversion of static frames into cinematic clips.
-* **Text-to-Video:** Core automation for both primary AI video generation methods.
-* **Create Image:** Use the bulk power to first generate your visual assets. Once your images are created, move them directly into the video queue. This creates a full "Text → Image → Video" factory where every step is automated.
-* **Ingredients Manager:** Use Global Settings to apply your "ingredients"—AI models, aspect ratios, and variation counts—to your entire bulk queue at once. It’s the ultimate control center for managing a "Set It and Forget It" production run.
-* **"Set It and Forget It" Mode:** The extension automatically inputs text, clicks the "Generate" button, and handles the wait time between renders.
+* **Create Video:** Select the "Create Video" option and input multiple prompts at once. The extension processes the entire list in one go, saving you hours of manual entry.
+* **Create Image:** Switch to the "Create Image" option to generate large batches of visuals from a single list of prompts.
 
-### ⚙️ Full Model Support (Veo 3.1)
-* **Latest AI Models:** Natively compatible with **Veo 2** and the state-of-the-art **Veo 3.1** (Fast & Quality models).
+### 🔄 Multi-Reference Mode: 
+* Streamline your workflow without repetitive uploading. Simply add your reference images to the extension and drag-and-drop them into your prompts.*
+* **Multi-Video Reference**
+* 1. Frame: Specify a "Start Image" and an "End Image." The AI will generate a video that transitions between the two based on your prompt.
+  2. Ingredients: Build a video by adding multiple reference images one by one to act as "ingredients" for the final output.
+  3. Pair: A structured mode where you add prompts line-by-line corresponding to specific images (e.g., Image 1 -> Prompt 1).
+* **Multi-Image Reference**
+* 1. Ingredients: Create a single image by layering or combining multiple reference images and a descriptive prompt.
+  2. Pair: Match specific images to specific prompt lines for precise control over the output.
+     
 * **Batch Quality Control:** Apply global settings (Aspect Ratio, Model Type) to your entire queue with a single click.
 * **Audio-Prompt Integration:** Automate the inclusion of sound descriptions within your video prompts for fully scored AI clips.
 
