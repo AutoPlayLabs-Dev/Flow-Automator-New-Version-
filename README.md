@@ -45,6 +45,8 @@
 * **Active Monitoring:** Real-time progress bar in the side panel shows exactly how many tasks are remaining in your project.
 * **Error Handling:** Automatically detects if a prompt is blocked by safety filters and moves to the next task in the list.
 
+---
+
 ## 🚀 Getting Started
 
 ### Installation
