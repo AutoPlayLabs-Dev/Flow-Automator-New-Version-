@@ -110,7 +110,7 @@ Flow Automator is a productivity tool designed to enhance user workflows.
 
 ## 🤝 Support & Feedback
 
-If you enjoy using Flow Automator, please consider leaving a review on the Chrome Web Store! For bug reports or feature requests, feel free to open an **Issue** in this repository.
+If you enjoy using Flow Automator, please consider leaving a review on the Flow Automator Chrome Web Store! For bug reports or feature requests, feel free to open an **Issue** in this repository.
 
 ---
 
