@@ -46,11 +46,13 @@ Adjustable delay settings to ensure smooth operation without hitting Google's ra
 ### Installation
 **Download Extension:**  
 [Google Chrome Web Store](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
-<img width="1130" height="215" alt="image" src="https://autoplaylabs.com/projects/" />
+
 
 1. Install the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb).
 2. Pin the **Flow Automator** icon to your Chrome toolbar for quick access.
 3. Open [Google Labs Flow](https://labs.google/flow).
+
+   [![Watch the GLabs Automator Demo]()
 
 ### Critical Setup (Important)
 To allow the **Auto-Download** feature to work without repetitive "Save As" pop-ups:
