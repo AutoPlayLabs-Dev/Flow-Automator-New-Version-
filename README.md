@@ -6,7 +6,7 @@ Flow Automator is a professional Chrome Extension designed to automate the promp
 [![Add to Extension](https://img.shields.io/badge/Add%20to%20Extension-%F0%9F%A7%A9-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
 
 
-![image alt](https://raw.githubusercontent.com/AutoPlayLabs-Dev/Flow-Automator/233cde2c1d92db742f4c93b26439dda4d530c631/f1.png?token=BTQGYMTIHVNHQOI5DQ2ZOUTJWOGHC)
+![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/c117f76122c6ac5b50079c412991571036692778/f1.png)
 
 
 ## ✨ Key Features
