@@ -24,6 +24,7 @@
 * **Multi-Image Reference**
  1. Ingredients: Create a single image by layering or combining multiple reference images and a descriptive prompt.
  2. Pair: Match specific images to specific prompt lines for precise control over the output.
+    
 
 ### 🛠️ Advanced Tools
 * **Prompt Queue Manager:** Click the Edit icon to customize your settings, then hit Save. Use the Manager pop-up to oversee and run your automated tasks.
@@ -43,10 +44,11 @@
 **Download Extension:**  
 [Google Chrome Web Store](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
 
+1.  Visit the [Flow Automator Chrome Web Store page](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob).
+2.  Click **Add to Chrome**.
+3.  Once installed, click the **Extensions icon** (puzzle piece) in your browser and pin **Flow Automator** for easy access.
 
-1. Install the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb).
-2. Pin the **Flow Automator** icon to your Chrome toolbar for quick access.
-3. Open [Google Labs Flow](https://labs.google/flow).
+---
 
    [![Watch the GLabs Automator Demo]()
 
