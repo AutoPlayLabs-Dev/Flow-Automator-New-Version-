@@ -85,7 +85,7 @@ To allow the **Auto-Download** feature to work without repetitive "Save As" pop-
 * **Reference Wisely:** In Multi-Reference mode, use high-quality images with similar color palettes for the most cohesive results.
 
 ---
-## Limitation of Liability
+### 📝 Limitation of Liability
 The developer of Flow Automator is not responsible for:
 * **Account Restrictions:** Any actions taken against your Google account due to excessive or improper use of automation.
 * **Credit Consumption:** Any loss of AI generation credits resulting from automated sequences.
@@ -93,7 +93,7 @@ The developer of Flow Automator is not responsible for:
 
 ---
 
-## Personal Responsibility
+### 📜 Personal Responsibility
 
 Use this tool at your own risk. This software is provided "as is," without warranty of any kind, express or implied. Always monitor your automation sessions to ensure they are performing as expected.
 
