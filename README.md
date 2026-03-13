@@ -65,46 +65,39 @@ To allow the **Auto-Download** feature to work without repetitive "Save As" pop-
 2. Search for **Downloads**.
 3. Toggle **OFF** the option: "Ask where to save each file before downloading."
 
-## 📖 How to Use:
 
-Transform your static images into cinematic videos by following these five simple steps.Flow Automator supports text to video and image to video at the same time.
+## 📖 How to Use
 
+1.  **Open the Extension:** Click the Flow Automator icon while on a supported AI generation site.
+2.  **Select Mode:** Choose between Image, Video, or Multi-Reference modes based on your project needs.
+3.  **Set prompt:** Click the **Upload or Paste** Prompts (represented by a `+` or "Choose File").
+4.  **Run Automation:** Click 'Start' and let the extension handle the repetitive clicking and generation tasks.
+5.  **Download:** Use the *Content Downloader* to grab your finished files once the batch is complete.
 
-### Step 1: Initialize Your Project
-* **Launch:** Open the **Flow Automator** extension from your Chrome toolbar.
-* **New Project:** Click on **"Start New Project"** to clear the workspace and begin a fresh automation sequence.
+---
 
-### Step 2: Select "Frame to Video" Mode
-Within the dashboard, locate and select the **"Frame to Video"** feature. 
-> **Note:** This mode is recommended for maximum control over motion, composition, and maintaining visual consistency from your source image.
+## 💡 Best Practices
 
-### Step 3: Upload Source Material
-1. Click the **Upload** (represented by a `+` or "Choose File").
-2. Select the high-quality image you previously generated (e.g., using Whisk Automator).
-3. Wait for the thumbnail to appear to ensure the asset is cached.
+* **Be Descriptive:** Use the *AI Prompt Creator* to add lighting, style, and camera angles to your prompts for better results.
+* **Start Small:** When using the Queue Manager for the first time, try 3–5 prompts to ensure your settings are perfect before running a large batch.
+* **Reference Wisely:** In Multi-Reference mode, use high-quality images with similar color palettes for the most cohesive results.
 
-### Step 4: Define Motion Guidance
-In the **Motion Prompt** field, enter specific instructions for how the scene should move. 
-* **Example:** `Camera pan right, slow motion, cinematic rain falling.`
-* **Pro Tip:** Keep prompts focused on *movement* rather than describing the objects already in the image.
+---
 
-### Step 5: Generate and Refine
-* **Render:** Press **Enter** or click the **Generate** button.
-* **Review:** Once the processing is complete, preview your video. 
-* **Iterate:** If the motion isn't perfect, adjust your prompt and click regenerate. Flow Automator will handle the re-submission automatically.
+## ⚠️ Disclaimer
 
+Flow Automator is a productivity tool designed to enhance user workflows. 
+* Users must comply with the Terms of Service of the specific AI platforms they are using.
+* The developers are not responsible for how the generated content is used.
+* Always ensure you have the necessary rights for any reference material used in Multi-Reference mode.
 
-## 📝 Best Practices
-* **Stay Active:** Keep the Google Flow tab in focus to ensure the automation script runs at maximum efficiency.
-* **Credits:** Monitor your AI Credits in the Flow interface; the automator will stop if credits are depleted.
-* **Complex Scenes:** When using Scene Builder, ensure your prompts are descriptive but compatible with the model (Veo 2/3.1).
+---
 
-## ⚖️ Disclaimer
-### 1. Affiliation
-**Flow Automator** is an independent, community-developed open-source project. It is **not** affiliated with, authorized, maintained, sponsored, or endorsed by **Google**, **Google Labs**, or any of its affiliates. All product and company names are the registered trademarks of their original owners.
+## 🤝 Support & Feedback
 
-### 2. Terms of Service
-By using this extension, you agree to comply with the **Google Generative AI Prohibited Use Policy** and the **Google Labs Terms of Service**. This tool is designed to automate manual tasks; however, users are responsible for ensuring that their automated activities do not violate the platform's rate limits or usage policies.
+If you enjoy using Flow Automator, please consider leaving a review on the Chrome Web Store! For bug reports or feature requests, feel free to open an **Issue** in this repository.
+
+---
 
 ### 3. Limitation of Liability
 The developer of Flow Automator is not responsible for:
@@ -121,5 +114,3 @@ Use this tool at your own risk. This software is provided "as is," without warra
 - **Tutorial Video:** [Watch on YouTube](https://www.youtube.com/watch?v=1qEw8zy3TkY)
 ---
 *Maintained by AutoPlayLabs*
-# Flow-Automator
-Flow Automator: The bulk generation toolkit for Google Labs Flow. Streamline your AI video creation with automated prompt queuing and smart asset management.
