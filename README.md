@@ -1,5 +1,5 @@
 # 🌊 Flow Automator (NEW Version)
-### Bulk AI Video Generation Toolkit for Google Flow Automator
+### Bulk AI Video Generation Toolkit for Flow Automator
 
 **Flow Automator** is a powerful Chrome extension designed to supercharge your creative workflow. Whether you are generating high-quality AI images, crafting cinematic videos, or managing complex prompt queues, Flow Automator bridges the gap between your ideas and execution.
 
