@@ -57,7 +57,7 @@
 
 ---
 
-   [![Watch the GLabs Automator Demo]()
+   [![Watch the GLabs Automator Demo](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/e95e4edf7976558fba645c184a9230976ab99369/flow-automator-install.mp4)
 
 ### Critical Setup (Important)
 To allow the **Auto-Download** feature to work without repetitive "Save As" pop-ups:
