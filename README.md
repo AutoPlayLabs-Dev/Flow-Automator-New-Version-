@@ -27,7 +27,9 @@
 * **Multi-Image Reference**
  1. Ingredients: Create a single image by layering or combining multiple reference images and a descriptive prompt.
  2. Pair: Match specific images to specific prompt lines for precise control over the output.
-   ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/2437e64741ccc95e386559ebb71d156bc3c9a68c/f3.png) ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png) 
+
+
+![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/2437e64741ccc95e386559ebb71d156bc3c9a68c/f3.png) ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png) 
 
 ### 🛠️ Advanced Tools
 * **Prompt Queue Manager:** Click the Edit icon to customize your settings, then hit Save. Use the Manager pop-up to oversee and run your automated tasks.
