@@ -71,7 +71,7 @@ To allow the **Auto-Download** feature to work without repetitive "Save As" pop-
 ## 📖 How to Use
 
 1.  **Open the Extension:** Click the Flow Automator icon while on a supported AI generation site.
-2.  **Select Mode:** Choose between Image, Video, or Multi-Reference modes based on your project needs.
+2.  **Select Mode:** Choose between Create Image,Create Video, and you can add the Multi-Reference modes based on your project needs.
 3.  **Set prompt:** Click the **Upload or Paste** Prompts (represented by a `+` or "Choose File").
 4.  **Run Automation:** Click 'Start' and let the extension handle the repetitive clicking and generation tasks.
 5.  **Download:** Use the *Content Downloader* to grab your finished files once the batch is complete.
