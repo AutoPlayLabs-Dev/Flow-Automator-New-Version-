@@ -15,6 +15,9 @@
 * **Create Video:** Select the "Create Video" option and input multiple prompts at once. The extension processes the entire list in one go, saving you hours of manual entry.
 * **Create Image:** Switch to the "Create Image" option to generate large batches of visuals from a single list of prompts.
 
+![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png)
+
+
 ### 🔄 Multi-Reference Mode: 
 * Streamline your workflow without repetitive uploading. Simply add your reference images to the extension and drag-and-drop them into your prompts.*
 * **Multi-Video Reference**
