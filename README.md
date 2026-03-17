@@ -46,13 +46,17 @@ Best For: Full AI-generated short films, storytelling series (like "AI Horror St
 
 #### 🖼️ Create Image:
   Scale your visual production with three high-speed automation workflows designed for precision and variety.
+  
   **1. Text to Image**
+  
 Transform your text-based ideas into massive image libraries effortlessly. This mode allows you to bulk-upload prompts in Single-line, Multi-line, or JSON formats. The Automator handles the repetitive task of entering each prompt and hitting generate, allowing you to produce hundreds of variations in a single session.
 
   **2. Integration Mode** 
+  
 Achieve a specific look by using multiple Reference Images as a foundation. By providing a "visual anchor," you can ensure that the AI generates results that adhere to a specific character likeness, artistic style, or color palette. This mode combines your text prompt with your uploaded images to create a balanced, guided output.
 
   **3. Paired Mode** 
+  
 The ultimate workflow for "Image-to-Image" automation. In Paired Mode, you upload a batch of images where each reference image is linked to its own unique prompt. The extension manages the pairing sequentially, so the AI knows exactly which text instructions apply to which specific base image.
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png)
@@ -83,7 +87,6 @@ Choose between two powerful automation workflows:
 
 This flexible system ensures that your automated image production is both highly precise and incredibly efficient for large-scale projects.
 
-This streamlined approach ensures that your automated videos stay visually consistent while saving hours of manual uploading time.
 
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/2437e64741ccc95e386559ebb71d156bc3c9a68c/f3.png) ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png) 
@@ -123,6 +126,8 @@ The final command center for managing and saving your finished assets.
 * **Media Filtering:** Use built-in filters to isolate **Images Only** or **Videos Only**.
 * **Effortless Exporting:** Fast, organized, and effortless batch exporting.
 
+#### 🤖 AI Prompt Creator
+The AI Prompt Creator is a built-in assistant designed to bridge the gap between a fleeting idea and a professional-grade instruction. By entering a simple, short concept, the tool automatically expands it into a polished, highly descriptive prompt optimized for AI interpretation.
 
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/46be61c838fe4a89a7342f8a320e7d4d451e407d/f4.png)
