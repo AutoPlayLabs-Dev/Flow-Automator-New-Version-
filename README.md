@@ -81,9 +81,9 @@ The Multi-Image Reference system provides complete creative control by using exi
 
 Choose between two powerful automation workflows:
 
-1 Ingredients Mode: Layer multiple reference images one by one to mix various styles, characters, or subjects into a single, cohesive result.
+  1 Ingredients Mode: Layer multiple reference images one by one to mix various styles, characters, or subjects into a single, cohesive result.
 
-2. Pair Mode: Achieve high precision by matching specific prompts to specific images line-by-line (e.g., Prompt 1 generates an alternative version of Image 1).
+  2. Pair Mode: Achieve high precision by matching specific prompts to specific images line-by-line (e.g., Prompt 1 generates an alternative version of Image 1).
 
 This flexible system ensures that your automated image production is both highly precise and incredibly efficient for large-scale projects.
 
@@ -141,13 +141,12 @@ The AI Prompt Creator is a built-in assistant designed to bridge the gap between
 
 ## 🚀 Getting Started
 
-### Installation
-**Download Extension:**  
-[Google Chrome Web Store](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
 
-1.  Visit the [Flow Automator Chrome Web Store page](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob).
-2.  Click **Add to Chrome**.
-3.  Once installed, click the **Extensions icon** (puzzle piece) in your browser and pin **Flow Automator** for easy access.
+
+### 💻 Installation
+1. **Download:** Visit the [Flow Automator Chrome Web Store page](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob).
+2. **Install:** Click **"Add to Chrome"**.
+3. **Pin:** Click the puzzle icon in your browser toolbar and pin Flow Automator.
 
 ---
 
@@ -177,19 +176,6 @@ To allow the **Auto-Download** feature to work without repetitive "Save As" pop-
 * **Reference Wisely:** In Multi-Reference mode, use high-quality images with similar color palettes for the most cohesive results.
 
 ---
-### 📝 Limitation of Liability
-The developer of Flow Automator is not responsible for:
-* **Account Restrictions:** Any actions taken against your Google account due to excessive or improper use of automation.
-* **Credit Consumption:** Any loss of AI generation credits resulting from automated sequences.
-* **Data Accuracy:** Errors in the video generation process or unexpected outputs from the AI models.
-
----
-
-### 📜 Personal Responsibility
-
-Use this tool at your own risk. This software is provided "as is," without warranty of any kind, express or implied. Always monitor your automation sessions to ensure they are performing as expected.
-
----
 
 ## ⚠️ Disclaimer
 
@@ -205,6 +191,9 @@ Flow Automator is a productivity tool designed to enhance user workflows.
 If you enjoy using Flow Automator, please consider leaving a review on the Flow Automator Chrome Web Store! For bug reports or feature requests, feel free to open an **Issue** in this repository.
 
 ---
+
+## 🛠 Developed By
+**Autoplaylab** *Transforming Ideas Into Powerful Chrome Extensions.* [Visit our Website](https://autoplaylabs.com)
 
 
 ## 🔗 Links
