@@ -83,7 +83,7 @@ Choose between two powerful automation workflows:
 
   1 Ingredients Mode: Layer multiple reference images one by one to mix various styles, characters, or subjects into a single, cohesive result.
 
-  2. Pair Mode: Achieve high precision by matching specific prompts to specific images line-by-line (e.g., Prompt 1 generates an alternative version of Image 1).
+2. Pair Mode: Achieve high precision by matching specific prompts to specific images line-by-line (e.g., Prompt 1 generates an alternative version of Image 1).
 
 This flexible system ensures that your automated image production is both highly precise and incredibly efficient for large-scale projects.
 
