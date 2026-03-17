@@ -141,23 +141,12 @@ The AI Prompt Creator is a built-in assistant designed to bridge the gap between
 
 ## 🚀 Getting Started
 
-
-
 ### 💻 Installation
 1. **Download:** Visit the [Flow Automator Chrome Web Store page](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob).
 2. **Install:** Click **"Add to Chrome"**.
 3. **Pin:** Click the puzzle icon in your browser toolbar and pin Flow Automator.
 
 ---
-
-   [![Watch the GLabs Automator Demo](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/e95e4edf7976558fba645c184a9230976ab99369/flow-automator-install.mp4)
-
-### Critical Setup (Important)
-To allow the **Auto-Download** feature to work without repetitive "Save As" pop-ups:
-1. Open Chrome **Settings**.
-2. Search for **Downloads**.
-3. Toggle **OFF** the option: "Ask where to save each file before downloading."
-
 
 ## 📖 How to Use
 
