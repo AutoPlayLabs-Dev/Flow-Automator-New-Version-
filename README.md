@@ -72,7 +72,7 @@ You can choose from three specialized workflows:
 3. Pair Mode: Ensures perfect alignment by matching your prompts line-by-line with specific images, guaranteeing that each animation matches the correct visual subject.
 
 
- #### 🖼️ Multi-Image Reference Mode
+ #### 📸 Multi-Image Reference Mode
 The Multi-Image Reference system provides complete creative control by using existing assets to guide new generations. By uploading your reference images once to the extension, you can use the drag-and-drop feature to instantly attach them to prompts, eliminating the need for repetitive manual uploads.
 
 Choose between two powerful automation workflows:
@@ -105,10 +105,25 @@ Fine-tune your output and protect your account with advanced automation controls
 | **Auto Clear Cache** | Manages browser memory to prevent lag during large batch runs. |
 | **Auto Download** | Instantly saves all generated results (up to 4K resolution). |
 | **Aspect Ratio** | Global control for formats like 16:9, 9:16, or 1:1. |
-* **AI Prompt Generator:**  Your built-in brainstorming partner. Use this to access an extensive list of ideas to overcome creative blocks and produce high-quality visuals.
+
 * **Advance Stealth Mode:**  Simulate natural human behavior for characters within your generations by enabling and customizing this specialized mode.
 * **Auto Cache Cleaner:** Maintain peak performance by automatically clearing the cache during heavy image or video generation sessions.
-* **Bulk Content Downloader:** The final stop for your creations. Use the selection tools to "Select All," "Deselect All," or filter by file type (Image vs. Video) for fast, organized downloading.
+
+#### 🚀 Start Automation
+Clicking **Start Processing** is the final step that turns your curated queue into a fully hands-free production engine. Once triggered, Flow Automator takes complete control of the workspace by:
+* **Systematic Feeding:** Automatically entering prompts from your queue.
+* **Asset Management:** Uploading all necessary reference images for each task.
+* **Instant Archiving:** Saving finished assets directly to your device (up to 4K resolution).
+
+### ✨ Power Tools
+
+#### 📥 Bulk Content Downloader
+The final command center for managing and saving your finished assets.
+* **Smart Selection:** Select all or deselect all tasks with a single click.
+* **Media Filtering:** Use built-in filters to isolate **Images Only** or **Videos Only**.
+* **Effortless Exporting:** Fast, organized, and effortless batch exporting.
+
+
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/46be61c838fe4a89a7342f8a320e7d4d451e407d/f4.png)
 
