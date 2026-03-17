@@ -55,6 +55,30 @@ The ultimate workflow for "Image-to-Image" automation. In Paired Mode, you uploa
 
 
 ### 🔄 Multi-Reference Mode: 
+#### 🖼️ Multi-Video Reference Mode
+The Multi-Video Reference system is designed for total control over visual storytelling without the hassle of repetitive file management. Simply add your reference assets to the Image Tab within the extension and use the intuitive drag-and-drop feature to attach them to your prompts.
+
+You can choose from three specialized workflows:
+
+1. Frame Mode: Creates a smooth, automated animation transition that starts from your first image and ends precisely with your last image.
+
+2. Ingredients Mode: Allows you to layer multiple reference images one by one, building a complex and visually rich scene based on mixed visual cues.
+
+3. Pair Mode: Ensures perfect alignment by matching your prompts line-by-line with specific images, guaranteeing that each animation matches the correct visual subject.
+
+
+ #### 🖼️ Multi-Image Reference Mode
+The Multi-Image Reference system provides complete creative control by using existing assets to guide new generations. By uploading your reference images once to the extension, you can use the drag-and-drop feature to instantly attach them to prompts, eliminating the need for repetitive manual uploads.
+
+Choose between two powerful automation workflows:
+
+1 Ingredients Mode: Layer multiple reference images one by one to mix various styles, characters, or subjects into a single, cohesive result.
+
+2. Pair Mode: Achieve high precision by matching specific prompts to specific images line-by-line (e.g., Prompt 1 generates an alternative version of Image 1).
+
+This flexible system ensures that your automated image production is both highly precise and incredibly efficient for large-scale projects.
+
+This streamlined approach ensures that your automated videos stay visually consistent while saving hours of manual uploading time.
 * Streamline your workflow without repetitive uploading. Simply add your reference images to the extension and drag-and-drop them into your prompts.*
 * **Multi-Video Reference**
  1. Frame: Specify a "Start Image" and an "End Image." The AI will generate a video that transitions between the two based on your prompt.
