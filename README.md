@@ -16,25 +16,25 @@ Flow Automator is built for creators who need to scale. Whether you are generati
 #### 🎬 Create Video:
   Generate high-fidelity AI videos using four specialized automation workflows designed for the latest Veo 3.1 models.
 
-1. Text to Video (Bulk Scaling)
+**1. Text to Video (Bulk Scaling)**
 The standard engine for high-volume content production.
 Bulk Injection: Upload prompt lists via .txt or .json files. Flow Automator will automatically iterate through your list, injecting each prompt into the generator sequentially.
 Format Support: Handles single-line, multi-line, and structured JSON prompts for complex instructions.
 Best For: Creating YouTube Shorts, TikTok background footage, or testing large-scale creative concepts without sitting at your desk.
 
-2. Frame Mode (Precision Transitions)
+**2. Frame Mode**
 Take full control over the narrative arc of your video by defining the "edges" of the clip.
 Dual-Frame Control: Upload a **Start Frame** and an **End Frame**. Flow Automator instructs the AI to generate a smooth, consistent transition that morphs the first image into the second.
 Creative Testing: Use the same two frames to test multiple "motion prompts" (e.g., "fast cinematic zoom" vs. "slow atmospheric pan") to see which transition feels best.
 Best For: "Before & After" reveals, object transformations (e.g., a sketch turning into a 3D model), and seamless scene loops.
 
-3. Integration Mode (Multi-Reference Fusion)
+**3. Integration Mode**
 Achieve unrivaled visual consistency by providing the AI with a "visual mood board."
 Visual Anchoring: Upload up to 3 reference images. The extension ensures these assets are reflected accurately in the video.
 Consistency Engine: Instead of the AI "guessing" what a character looks like from text alone, it uses your uploaded reference images as a fixed blueprint.
 Best For: Branded marketing (keeping logos accurate), character-driven series, and maintaining a specific color palette or artistic style across multiple clips.
 
-4. Paired Mode (AI Storytelling)
+**4. Paired Mode**
 The ultimate tool for creators building episodic or narrative-driven content.
 Sequential Pairing: Upload a series of images (e.g., Scene 1, Scene 2, Scene 3). Flow Automator assigns a unique animation prompt to each specific reference image.
 Dynamic Sequencing: The extension numbers each image in the queue, allowing you to write a storyboard where the AI knows exactly which action belongs to which visual.(Image 1- propmpt 1)
@@ -42,19 +42,20 @@ Best For: Full AI-generated short films, storytelling series (like "AI Horror St
 
 #### 🖼️ Create Image:
   Scale your visual production with three high-speed automation workflows designed for precision and variety.
-  1. Text to Image (Mass Generation)
+  **1. Text to Image**
 Transform your text-based ideas into massive image libraries effortlessly. This mode allows you to bulk-upload prompts in Single-line, Multi-line, or JSON formats. The Automator handles the repetitive task of entering each prompt and hitting generate, allowing you to produce hundreds of variations in a single session.
 
-2. Integration Mode (Visual Consistency)
+**2. Integration Mode** 
 Achieve a specific look by using multiple Reference Images as a foundation. By providing a "visual anchor," you can ensure that the AI generates results that adhere to a specific character likeness, artistic style, or color palette. This mode combines your text prompt with your uploaded images to create a balanced, guided output.
 
-3. Paired Mode (Iterative Refinement)
+**3. Paired Mode** 
 The ultimate workflow for "Image-to-Image" automation. In Paired Mode, you upload a batch of images where each reference image is linked to its own unique prompt. The extension manages the pairing sequentially, so the AI knows exactly which text instructions apply to which specific base image.
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png)
 
 
-### 🔄 Multi-Reference Mode: 
+### 🔄 Multi-Reference Mode
+
 #### 🖼️ Multi-Video Reference Mode
 The Multi-Video Reference system is designed for total control over visual storytelling without the hassle of repetitive file management. Simply add your reference assets to the Image Tab within the extension and use the intuitive drag-and-drop feature to attach them to your prompts.
 
@@ -79,20 +80,17 @@ Choose between two powerful automation workflows:
 This flexible system ensures that your automated image production is both highly precise and incredibly efficient for large-scale projects.
 
 This streamlined approach ensures that your automated videos stay visually consistent while saving hours of manual uploading time.
-* Streamline your workflow without repetitive uploading. Simply add your reference images to the extension and drag-and-drop them into your prompts.*
-* **Multi-Video Reference**
- 1. Frame: Specify a "Start Image" and an "End Image." The AI will generate a video that transitions between the two based on your prompt.
- 2. Ingredients: Build a video by adding multiple reference images one by one to act as "ingredients" for the final output.
- 3. Pair: A structured mode where you add prompts line-by-line corresponding to specific images (e.g., Image 1 -> Prompt 1).
-* **Multi-Image Reference**
- 1. Ingredients: Create a single image by layering or combining multiple reference images and a descriptive prompt.
- 2. Pair: Match specific images to specific prompt lines for precise control over the output.
 
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/2437e64741ccc95e386559ebb71d156bc3c9a68c/f3.png) ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png) 
 
 ### 🛠️ Advanced Tools
-* **Prompt Queue Manager:** Click the Edit icon to customize your settings, then hit Save. Use the Manager pop-up to oversee and run your automated tasks.
+#### Prompt Queue Manager
+Click the Edit icon to customize your settings, then hit Save. Use the Manager pop-up to oversee and run your automated tasks.The **Queue System** acts as the central command center for all creative tasks.
+* **Stacked Projects:** Mix video and image tasks in one organized list.
+* **Edit & Reorder:** Fine-tune prompts or tasks before the automation begins.
+* **Real-Time Monitoring:** Open the **Prompt Manager** pop-up window to track the progress of every video or image in your lineup in real-time.
+  
 * **AI Prompt Generator:**  Your built-in brainstorming partner. Use this to access an extensive list of ideas to overcome creative blocks and produce high-quality visuals.
 * **Advance Stealth Mode:**  Simulate natural human behavior for characters within your generations by enabling and customizing this specialized mode.
 * **Auto Cache Cleaner:** Maintain peak performance by automatically clearing the cache during heavy image or video generation sessions.
