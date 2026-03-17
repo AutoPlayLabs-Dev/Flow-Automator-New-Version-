@@ -13,7 +13,9 @@ Flow Automator is built for creators who need to scale. Whether you are generati
 ## ✨ Key Features
 
 ### 🎬 Powerful Bulk Automation
-* **Create Video:** Generate high-fidelity AI videos using four specialized automation workflows designed for the latest Veo 3.1 models.
+
+* **🎬 Create Video:**
+  Generate high-fidelity AI videos using four specialized automation workflows designed for the latest Veo 3.1 models.
 
  1. Text to Video (Bulk Scaling)
 The standard engine for high-volume content production.
@@ -23,23 +25,32 @@ Best For: Creating YouTube Shorts, TikTok background footage, or testing large-s
 
  2. Frame Mode (Precision Transitions)
 Take full control over the narrative arc of your video by defining the "edges" of the clip.
-Dual-Frame Control: Upload a Start Frame and an End Frame. Flow Automator instructs the AI to generate a smooth, consistent transition that morphs the first image into the second.
+Dual-Frame Control: Upload a **Start Frame** and an **End Frame**. Flow Automator instructs the AI to generate a smooth, consistent transition that morphs the first image into the second.
 Creative Testing: Use the same two frames to test multiple "motion prompts" (e.g., "fast cinematic zoom" vs. "slow atmospheric pan") to see which transition feels best.
 Best For: "Before & After" reveals, object transformations (e.g., a sketch turning into a 3D model), and seamless scene loops.
 
  3. Integration Mode (Multi-Reference Fusion)
 Achieve unrivaled visual consistency by providing the AI with a "visual mood board."
-Visual Anchoring: Upload up to 3 reference images (logos, characters, or environments). The extension ensures these assets are reflected accurately in the video.
-Consistency Engine: Instead of the AI "guessing" what a character looks like from text alone, it uses your uploaded images as a fixed blueprint.
+Visual Anchoring: Upload up to 3 reference images. The extension ensures these assets are reflected accurately in the video.
+Consistency Engine: Instead of the AI "guessing" what a character looks like from text alone, it uses your uploaded reference images as a fixed blueprint.
 Best For: Branded marketing (keeping logos accurate), character-driven series, and maintaining a specific color palette or artistic style across multiple clips.
 
  4. Paired Mode (AI Storytelling)
 The ultimate tool for creators building episodic or narrative-driven content.
-Sequential Pairing: Upload a series of images (e.g., Scene 1, Scene 2, Scene 3). Flow Automator assigns a unique animation prompt to each specific image.
-Dynamic Sequencing: The extension numbers each image in the queue, allowing you to write a storyboard where the AI knows exactly which action belongs to which visual.
+Sequential Pairing: Upload a series of images (e.g., Scene 1, Scene 2, Scene 3). Flow Automator assigns a unique animation prompt to each specific reference image.
+Dynamic Sequencing: The extension numbers each image in the queue, allowing you to write a storyboard where the AI knows exactly which action belongs to which visual.(Image 1- propmpt 1)
 Best For: Full AI-generated short films, storytelling series (like "AI Horror Stories"), and creating complex animated storyboards where every scene requires a different camera movement.
 
-* **Create Image:** Switch to the "Create Image" option to generate large batches of visuals from a single list of prompts.
+* **🖼️ Create Image:**
+  Scale your visual production with three high-speed automation workflows designed for precision and variety.
+  1. Text to Image (Mass Generation)
+Transform your text-based ideas into massive image libraries effortlessly. This mode allows you to bulk-upload prompts in Single-line, Multi-line, or JSON formats. The Automator handles the repetitive task of entering each prompt and hitting generate, allowing you to produce hundreds of variations in a single session.
+
+2. Integration Mode (Visual Consistency)
+Achieve a specific look by using multiple Reference Images as a foundation. By providing a "visual anchor," you can ensure that the AI generates results that adhere to a specific character likeness, artistic style, or color palette. This mode combines your text prompt with your uploaded images to create a balanced, guided output.
+
+3. Paired Mode (Iterative Refinement)
+The ultimate workflow for "Image-to-Image" automation. In Paired Mode, you upload a batch of images where each reference image is linked to its own unique prompt. The extension manages the pairing sequentially, so the AI knows exactly which text instructions apply to which specific base image.
 
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png)
 
