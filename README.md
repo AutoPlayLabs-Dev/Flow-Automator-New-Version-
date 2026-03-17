@@ -2,7 +2,7 @@
 ### Flow Automator V2.0
 Flow Automator is a high-performance prompt automation extension for Google Flow. It transforms manual AI content creation into a fully autonomous workflow, handling prompt injection, content generation, and file downloading without human intervention.
 
-[![Add to Extension](https://img.shields.io/badge/Add%20to%20Extension-%F0%9F%A7%A9-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
+ [![Add to Extension](https://img.shields.io/badge/Add%20to%20Extension-%F0%9F%A7%A9-orange?style=for-the-badge)](https://chromewebstore.google.com/detail/bienlomhfnhbhpnpddpobkahjmegmhob?utm_source=item-share-cb)
 
 ## 📖 Introduction
 Flow Automator is built for creators who need to scale. Whether you are generating hundreds of AI images or a series of animated videos, this tool acts as your virtual assistant. It eliminates the need to enter prompts one by one, allowing you to queue up your entire creative vision and let the automation handle the rest.
@@ -92,6 +92,7 @@ This flexible system ensures that your automated image production is both highly
 ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/2437e64741ccc95e386559ebb71d156bc3c9a68c/f3.png) ![image alt](https://github.com/AutoPlayLabs-Dev/Flow-Automator/blob/ade33dbf4c5640b341e3365c699292d31bbc06e1/f2.png) 
 
 ### 🛠️ Advanced Tools
+
 #### 📋 Prompt Queue Manager
 Click the Edit icon to customize your settings, then hit Save. Use the Manager pop-up to oversee and run your automated tasks.The **Queue System** acts as the central command center for all creative tasks.
 * **Stacked Projects:** Mix video and image tasks in one organized list.
